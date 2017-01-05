@@ -86,4 +86,5 @@ body {
 
 .hover {
   background-color: #DDD;
+  cursor: pointer;
 }
